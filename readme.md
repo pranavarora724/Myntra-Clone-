@@ -1,3 +1,8 @@
+MYNTRA CLONE 
+Using HTML , CSS and JS 
+With "Add to Cart" Functionality implemented using Local Storage
+
+
 **VERY IMP**
 How to deal with LOCAL STORAGE
 When page loads assign variable with value pesent at local Storage
